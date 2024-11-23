@@ -1,0 +1,14 @@
+.co{
+    outline: none;
+    border: 2px solid blue;
+    padding: 7px 32px;
+    border-radius: 40px;
+    background-color:#B0DFFF;
+    color: blue;
+    cursor: pointer;
+    transition: .3s linear;
+}
+.co:hover{
+    background: blue;
+    color: #fff;
+}
